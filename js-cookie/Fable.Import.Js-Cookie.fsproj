@@ -6,10 +6,9 @@
     <PackageLicenseUrl>https://github.com/nozzlegear/fable-bindings/blob/master/LICENSE</PackageLicenseUrl>
     <PackageTags>fsharp;fable;cookies;js-cookie;</PackageTags>
     <Authors>Nozzlegear Software</Authors>
-    <Version>1.0.0-rc2</Version>
+    <Version>1.0.0-rc3</Version>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <AssemblyName>Fable.Import.Js-Cookie</AssemblyName>
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Binding.fs" />
