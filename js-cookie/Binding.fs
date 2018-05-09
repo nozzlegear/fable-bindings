@@ -1,18 +1,20 @@
-module Fable.Import.JsCookie
+namespace Fable.Import
 
-open System
-open Fable.Core
-open Fable.Core.JsInterop
+module JsCookie = 
 
-type IJSCookie =
+  open System
+  open Fable.Core
+  open Fable.Core.JsInterop
+
+  type IJSCookie =
     abstract remove: name: string -> unit
     abstract get: name: string -> (string option)
     abstract set: name: string -> value: string -> obj option // Returns null, must be represented with option
 
-let private imported = import<IJSCookie> "*" "js-cookie"
+  let private imported = import<IJSCookie> "*" "js-cookie"
 
-let get = imported.get
+  let get = imported.get
 
-let set = imported.set
+  let set = imported.set
 
-let remove = imported.remove
+  let remove = imported.remove
