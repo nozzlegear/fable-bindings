@@ -13,3 +13,11 @@ The packages in this repo are a mix of both pure `Fable.Import` bindings and com
 
 If the package contains bindings (whether pure or impure) for an NPM or JS package, it should use the namespace `Fable.Import.PackageName`. If it does not contain NPM package bindings, just use `Fable.PackageName`.
 
+### Publishing
+
+1. `dotnet pack -c Release`
+2. `dotnet nuget push --source nuget.org -k "$env:NUGET_KEY" project/bin/Release/netstandard2.0/package.nupkg`
+
+If you receive this error during `dotnet pack`, do `rm -r` on the project's bin and obj folders.
+
+`C:\Users\nozzl\source\fable-bindings\.paket\Paket.Restore.targets(190,5): error : The given path's format is not supported. [C:\Users\nozzl\source\fable-bindings\js-cookie\js-cookie.fsproj]`
