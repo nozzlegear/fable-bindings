@@ -1,4 +1,4 @@
-# Fable bindings for [Js-Cookie](https://npmjs.com/package/jwt-simple)
+# Fable bindings for [jwt-simple](https://npmjs.com/package/jwt-simple)
 
 [![nuget](https://badge.fury.io/nu/Fable.Import.Jwt-Simple.svg)](https://badge.fury.io/nu/Fable.Import.Jwt-Simple)
 
