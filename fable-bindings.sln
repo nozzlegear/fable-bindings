@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Fable.Import.Js-Cookie", "Fable.Import.Js-Cookie\Fable.Import.Js-Cookie.fsproj", "{8B241B74-1BC0-421C-A829-E07A3D1EFE4D}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Fable.Import.Jwt-Simple", "Fable.Import.Jwt-Simple\Fable.Import.Jwt-Simple.fsproj", "{D93A8543-64A9-46BC-86CD-5ED4B5EA2B0A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,17 @@ Global
 		{8B241B74-1BC0-421C-A829-E07A3D1EFE4D}.Release|x64.Build.0 = Release|x64
 		{8B241B74-1BC0-421C-A829-E07A3D1EFE4D}.Release|x86.ActiveCfg = Release|x86
 		{8B241B74-1BC0-421C-A829-E07A3D1EFE4D}.Release|x86.Build.0 = Release|x86
+		{D93A8543-64A9-46BC-86CD-5ED4B5EA2B0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D93A8543-64A9-46BC-86CD-5ED4B5EA2B0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D93A8543-64A9-46BC-86CD-5ED4B5EA2B0A}.Debug|x64.ActiveCfg = Debug|x64
+		{D93A8543-64A9-46BC-86CD-5ED4B5EA2B0A}.Debug|x64.Build.0 = Debug|x64
+		{D93A8543-64A9-46BC-86CD-5ED4B5EA2B0A}.Debug|x86.ActiveCfg = Debug|x86
+		{D93A8543-64A9-46BC-86CD-5ED4B5EA2B0A}.Debug|x86.Build.0 = Debug|x86
+		{D93A8543-64A9-46BC-86CD-5ED4B5EA2B0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D93A8543-64A9-46BC-86CD-5ED4B5EA2B0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D93A8543-64A9-46BC-86CD-5ED4B5EA2B0A}.Release|x64.ActiveCfg = Release|x64
+		{D93A8543-64A9-46BC-86CD-5ED4B5EA2B0A}.Release|x64.Build.0 = Release|x64
+		{D93A8543-64A9-46BC-86CD-5ED4B5EA2B0A}.Release|x86.ActiveCfg = Release|x86
+		{D93A8543-64A9-46BC-86CD-5ED4B5EA2B0A}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
