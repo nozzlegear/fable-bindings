@@ -11,4 +11,5 @@ The packages in this repo are a mix of both pure `Fable.Import` bindings and com
 </ItemGroup>
 ```
 
-Pure bindings should be published with the name `Fable.Import.PackageName`, while compiled bindings are just `Fable.PackageName`.
+If the package contains bindings (whether pure or impure) for an NPM or JS package, it should use the namespace `Fable.Import.PackageName`. If it does not contain NPM package bindings, just use `Fable.PackageName`.
+
