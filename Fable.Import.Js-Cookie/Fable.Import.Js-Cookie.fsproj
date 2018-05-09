@@ -6,7 +6,7 @@
     <PackageLicenseUrl>https://github.com/nozzlegear/fable-bindings/blob/master/LICENSE</PackageLicenseUrl>
     <PackageTags>fsharp;fable;cookies;js-cookie;</PackageTags>
     <Authors>Nozzlegear Software</Authors>
-    <Version>1.0.0-rc3</Version>
+    <Version>1.0.0</Version>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>

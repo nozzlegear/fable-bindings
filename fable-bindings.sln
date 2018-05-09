@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "js-cookie", "js-cookie\js-cookie.fsproj", "{D4F9C118-EA09-4FD1-ACEE-3CE9410DA9B0}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Fable.Import.Js-Cookie", "Fable.Import.Js-Cookie\Fable.Import.Js-Cookie.fsproj", "{8B241B74-1BC0-421C-A829-E07A3D1EFE4D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -30,5 +30,17 @@ Global
 		{D4F9C118-EA09-4FD1-ACEE-3CE9410DA9B0}.Release|x64.Build.0 = Release|x64
 		{D4F9C118-EA09-4FD1-ACEE-3CE9410DA9B0}.Release|x86.ActiveCfg = Release|x86
 		{D4F9C118-EA09-4FD1-ACEE-3CE9410DA9B0}.Release|x86.Build.0 = Release|x86
+		{8B241B74-1BC0-421C-A829-E07A3D1EFE4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B241B74-1BC0-421C-A829-E07A3D1EFE4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B241B74-1BC0-421C-A829-E07A3D1EFE4D}.Debug|x64.ActiveCfg = Debug|x64
+		{8B241B74-1BC0-421C-A829-E07A3D1EFE4D}.Debug|x64.Build.0 = Debug|x64
+		{8B241B74-1BC0-421C-A829-E07A3D1EFE4D}.Debug|x86.ActiveCfg = Debug|x86
+		{8B241B74-1BC0-421C-A829-E07A3D1EFE4D}.Debug|x86.Build.0 = Debug|x86
+		{8B241B74-1BC0-421C-A829-E07A3D1EFE4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B241B74-1BC0-421C-A829-E07A3D1EFE4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B241B74-1BC0-421C-A829-E07A3D1EFE4D}.Release|x64.ActiveCfg = Release|x64
+		{8B241B74-1BC0-421C-A829-E07A3D1EFE4D}.Release|x64.Build.0 = Release|x64
+		{8B241B74-1BC0-421C-A829-E07A3D1EFE4D}.Release|x86.ActiveCfg = Release|x86
+		{8B241B74-1BC0-421C-A829-E07A3D1EFE4D}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
