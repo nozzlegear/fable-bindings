@@ -9,6 +9,7 @@
     <Version>1.0.0-rc1</Version>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>Fable.Import.Js-Cookie</AssemblyName>
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Binding.fs" />
