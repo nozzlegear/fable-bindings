@@ -1,5 +1,5 @@
 source https://www.nuget.org/api/v2
 
-nuget FSharp.Core 
-nuget Fable.Core
-nuget Fable.React
+nuget FSharp.Core >= 4.2.3
+nuget Fable.Core  >= 1.3.7
+nuget Fable.React >= 1.2.2
