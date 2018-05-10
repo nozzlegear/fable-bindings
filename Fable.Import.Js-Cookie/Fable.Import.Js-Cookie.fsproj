@@ -1,12 +1,5 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <Description>Fable binding for the NPM package "js-cookie".</Description>
-    <PackageProjectUrl>https://github.com/nozzlegear/fable-bindings</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/nozzlegear/fable-bindings</RepositoryUrl>
-    <PackageLicenseUrl>https://github.com/nozzlegear/fable-bindings/blob/master/LICENSE</PackageLicenseUrl>
-    <PackageTags>fsharp;fable;cookies;js-cookie;</PackageTags>
-    <Authors>Nozzlegear Software</Authors>
-    <Version>1.0.0</Version>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>

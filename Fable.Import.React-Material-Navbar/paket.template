@@ -1,0 +1,23 @@
+type 
+    project
+version
+    1.0.1-rc1
+authors 
+    nozzlegear
+description 
+    Fable bindings for the NPM package "react-material-navbar".
+copyright 
+    Nozzlegear Software
+licenseUrl 
+    https://raw.githubusercontent.com/nozzlegear/fable-bindings/master/LICENSE
+projectUrl 
+    https://github.com/nozzlegear/fable-bindings
+tags
+    fable,fsharp,react,react-material-navbar,navbar
+# Supposedly the files list is ignored when using the `project` type, but that's not actually the case.
+# They get added anyway.
+files
+    *.fs ==> fable
+    *.fsproj ==> fable
+    *.js ==> fable
+    
