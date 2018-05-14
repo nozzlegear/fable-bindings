@@ -17,6 +17,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Fable.Import.History", "Fab
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Fable.Import.Mobx", "Fable.Import.Mobx\Fable.Import.Mobx.fsproj", "{5082479D-1FD3-4C3C-855D-38C8A13E5A4F}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Fable.Import.Mobx-React", "Fable.Import.Mobx-React\Fable.Import.Mobx-React.fsproj", "{A150818F-BB56-4323-837A-E3E430D86683}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -126,5 +128,17 @@ Global
 		{5082479D-1FD3-4C3C-855D-38C8A13E5A4F}.Release|x64.Build.0 = Release|x64
 		{5082479D-1FD3-4C3C-855D-38C8A13E5A4F}.Release|x86.ActiveCfg = Release|x86
 		{5082479D-1FD3-4C3C-855D-38C8A13E5A4F}.Release|x86.Build.0 = Release|x86
+		{A150818F-BB56-4323-837A-E3E430D86683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A150818F-BB56-4323-837A-E3E430D86683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A150818F-BB56-4323-837A-E3E430D86683}.Debug|x64.ActiveCfg = Debug|x64
+		{A150818F-BB56-4323-837A-E3E430D86683}.Debug|x64.Build.0 = Debug|x64
+		{A150818F-BB56-4323-837A-E3E430D86683}.Debug|x86.ActiveCfg = Debug|x86
+		{A150818F-BB56-4323-837A-E3E430D86683}.Debug|x86.Build.0 = Debug|x86
+		{A150818F-BB56-4323-837A-E3E430D86683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A150818F-BB56-4323-837A-E3E430D86683}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A150818F-BB56-4323-837A-E3E430D86683}.Release|x64.ActiveCfg = Release|x64
+		{A150818F-BB56-4323-837A-E3E430D86683}.Release|x64.Build.0 = Release|x64
+		{A150818F-BB56-4323-837A-E3E430D86683}.Release|x86.ActiveCfg = Release|x86
+		{A150818F-BB56-4323-837A-E3E430D86683}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
