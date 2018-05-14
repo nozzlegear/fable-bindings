@@ -13,7 +13,7 @@ licenseUrl
 projectUrl 
     https://github.com/nozzlegear/fable-bindings
 tags
-    fable,fsharp,history,browser history
+    fable,fsharp,mobx,observable
 # Supposedly the files list is ignored when using the `project` type, but that's not actually the case.
 # They get added anyway.
 files
